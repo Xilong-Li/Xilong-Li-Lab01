@@ -12,6 +12,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE, message = FALSE,
                       warning = FALSE)
 install.packages('tidymodels')
+install.packages('eval')
+install.packages('contrib.url')
 ```
 
 ## Setup
